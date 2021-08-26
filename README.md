@@ -1,5 +1,5 @@
 # Aplicação em React.js e Typescript </br>
-# busca repositorios do github com base nickname e suas issues.
+# busca repositórios do github com base nickname e suas issues.
 
 # Dashboard
 
